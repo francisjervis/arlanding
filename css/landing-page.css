@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?
+	
+	=Nunito+Sans);
 /*           Font Smoothing      */
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, .btn-simple, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
