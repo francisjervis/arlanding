@@ -682,10 +682,10 @@ vertical-align: middle;
 }
 .landing-page .carousel-indicators li {
   margin: 1px 10px;
-  border-color: #888888;
+  border-color: #588b9b;
 }
 .landing-page .carousel-indicators .active{
-  background-color: #888888;
+  background-color: #588b9b;
   margin: 1px 10px;
 }
 .landing-page .carousel-indicators.carousel-indicators-blue li {
